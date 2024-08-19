@@ -10,7 +10,7 @@
     Smart Examples
   </mat-toolbar>
   <mat-nav-list>
-    <a mat-list-item routerLink="/pages/users">users</a>
+    <a mat-list-item routerLink="users">users</a>
     <a mat-list-item routerLink="/formFiledInput">Form field inputs</a>
     <a mat-list-item routerLink="/progBarSpinner">Progress bar and Sinner</a>
     <a mat-list-item routerLink="/tabs">Tabs</a>
@@ -49,9 +49,10 @@
     <mat-toolbar class="toolbar-submenu" color="primary">
         <span *ngIf="!popText">My App</span>
     </mat-toolbar>
-    <div class="content">
+
+
       <router-outlet></router-outlet>
-    </div>
+
 
 
 
