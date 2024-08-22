@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import {BreakpointObserver} from '@angular/cdk/layout'
 import { fromEvent, map } from 'rxjs';
+import { menuItems } from './shared/models/menu';
+import { MenuItem } from './shared/models/menuItem';
 
 
 
@@ -16,6 +18,7 @@ export class AppComponent  implements OnInit{
   public isSmallScreen = false;
   public popText = false;
   public applyShadow = false;
+  public items_menu: MenuItem[] = menuItems;
 
 
   constructor(private  breakpointObserver: BreakpointObserver) {}
