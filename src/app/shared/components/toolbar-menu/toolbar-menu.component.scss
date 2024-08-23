@@ -1,6 +1,41 @@
+.logo {
+  .mat-icon {
+    font-size: 18px;
+  }
+}
+
+.title {
+  font-size: 20px;
+  margin-top: 10px !important;
+}
+
+.mat-menu-item {
+  .mat-icon {
+    margin-top: 5px;
+    font-size: 18px;
+  }
+}
+
+
+
+
 .toolbar-menu {
   position: fixed;
   font-size: 1rem;
   top: 0;
-  z-index: 1001;
+  color: white;
+  z-index: 1000;
+  height: 64px;
+  background-color: #666;
+  text-shadow: 2px 1px #323232;
+}
+
+.content-center {
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+}
+
+.space-right-icon {
+  margin-right: 10px;
 }
