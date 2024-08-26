@@ -11,8 +11,8 @@ const routes: Routes = [
     {  path: '', pathMatch: 'full',redirectTo: 'myProfile'},
     {  path: 'myProfile', component: MyProfileComponent},
     {  path: 'myConquests', component: MyConquestsComponent},
-    {  path: 'myDisplines', component: MyDisciplinesComponent}
-  ]}
+    {  path: 'myDisplines', component: MyDisciplinesComponent}]
+  }
 ];
 
 @NgModule({
