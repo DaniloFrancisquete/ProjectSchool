@@ -1,7 +1,7 @@
 {
   "courses": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Desenvolvimento Web Avançado com React",
       "category": "Tecnologia",
       "rating": 4.7,
@@ -10,7 +10,7 @@
       "description": "Aprenda React de forma avançada. (Tecnologia)"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Machine Learning e Inteligência Artificial",
       "category": "Tecnologia",
       "rating": 4.9,
@@ -19,7 +19,7 @@
       "description": "Domine ML e IA. (Tecnologia)"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "História da Arte Contemporânea",
       "category": "Arte",
       "rating": 4.3,
@@ -28,7 +28,7 @@
       "description": "Exploração artística moderna. (Arte)"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Cozinha Gourmet: Técnicas Avançadas",
       "category": "Culinária",
       "rating": 4.8,
@@ -37,7 +37,7 @@
       "description": "Técnicas avançadas na culinária. (Culinária)"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Estratégias Avançadas de Investimento",
       "category": "Finanças",
       "rating": 4.7,
@@ -46,7 +46,7 @@
       "description": "Investimentos sólidos. (Finanças)"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Psicologia Clínica: Abordagens Modernas",
       "category": "Psicologia",
       "rating": 4.6,
@@ -55,7 +55,7 @@
       "description": "Abordagens modernas em psicologia. (Psicologia)"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Marketing Digital para E-commerce",
       "category": "Marketing",
       "rating": 4.5,
@@ -64,7 +64,7 @@
       "description": "Estratégias eficazes de marketing. (Marketing)"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Fotografia de Paisagens Naturais",
       "category": "Fotografia",
       "rating": 4.4,
@@ -73,7 +73,7 @@
       "description": "Captura da beleza da natureza. (Fotografia)"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Escrita Criativa: Contos e Poesia",
       "category": "Escrita",
       "rating": 4.5,
@@ -82,7 +82,7 @@
       "description": "Histórias e poesias inspiradoras. (Escrita)"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Composição Musical Avançada",
       "category": "Música",
       "rating": 4.9,
@@ -91,7 +91,7 @@
       "description": "Crie músicas excepcionais. (Música)"
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Ecologia e Conservação Ambiental",
       "category": "Ciências Ambientais",
       "rating": 4.2,
@@ -100,7 +100,7 @@
       "description": "Proteja nosso planeta. (Ciências Ambientais)"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Design Sustentável na Moda",
       "category": "Moda",
       "rating": 4.6,
@@ -109,7 +109,7 @@
       "description": "Moda e estilo sustentáveis. (Moda)"
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Comunicação Eficaz no Ambiente de Trabalho",
       "category": "Comunicação",
       "rating": 4.7,
@@ -118,7 +118,7 @@
       "description": "Habilidades de comunicação no trabalho. (Comunicação)"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Filosofia Política Contemporânea",
       "category": "Filosofia",
       "rating": 4.3,
@@ -127,7 +127,7 @@
       "description": "Debate político moderno. (Filosofia)"
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Yoga para Equilíbrio e Bem-Estar",
       "category": "Saúde",
       "rating": 4.8,
@@ -136,7 +136,7 @@
       "description": "Bem-estar mental e físico. (Saúde)"
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Desenvolvimento Avançado de Aplicativos Web com Vue.js",
       "category": "Tecnologia",
       "rating": 4.6,
@@ -145,7 +145,7 @@
       "description": "Explore o desenvolvimento avançado de aplicativos web usando Vue.js. (Tecnologia)"
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Fundamentos de Cibersegurança",
       "category": "Tecnologia",
       "rating": 4.8,
@@ -154,7 +154,7 @@
       "description": "Domine os fundamentos da cibersegurança. (Tecnologia)"
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Técnicas Modernas de Escultura",
       "category": "Arte",
       "rating": 4.5,
@@ -163,7 +163,7 @@
       "description": "Explore técnicas modernas de escultura e arte. (Arte)"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Arte Abstrata Moderna: Técnicas e Tendências",
       "category": "Arte",
       "rating": 4.5,
@@ -172,7 +172,7 @@
       "description": "Aprofunde-se nas técnicas e tendências da arte abstrata moderna. (Arte)"
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Fusão Culinária Internacional",
       "category": "Culinária",
       "rating": 4.7,
@@ -181,7 +181,7 @@
       "description": "Fusão de sabores e técnicas culinárias internacionais. (Culinária)"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Estratégias de Investimento em Imóveis",
       "category": "Finanças",
       "rating": 4.6,
@@ -190,7 +190,7 @@
       "description": "Aprenda estratégias eficazes de investimento em imóveis. (Finanças)"
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "Psicologia Positiva e Bem-Estar",
       "category": "Psicologia",
       "rating": 4.7,
@@ -199,7 +199,7 @@
       "description": "Explore a ciência do bem-estar e da psicologia positiva. (Psicologia)"
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "Marketing de Influência na Era Digital",
       "category": "Marketing",
       "rating": 4.8,
@@ -208,7 +208,7 @@
       "description": "Aproveite o poder do marketing de influência na era digital. (Marketing)"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Fotografia de Paisagens Avançada",
       "category": "Fotografia",
       "rating": 4.5,
@@ -217,7 +217,7 @@
       "description": "Domine técnicas avançadas na fotografia de paisagens. (Fotografia)"
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Escrita Criativa: Contos e Poesia",
       "category": "Escrita",
       "rating": 4.6,
@@ -226,7 +226,7 @@
       "description": "Crie histórias curtas e poesia inspiradora. (Escrita)"
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "Composição Musical Avançada",
       "category": "Música",
       "rating": 4.9,
@@ -235,7 +235,7 @@
       "description": "Componha peças musicais excepcionais. (Música)"
     },
     {
-      "id": 27,
+      "id": "27",
       "name": "Estratégias de Conservação da Biodiversidade",
       "category": "Ciências Ambientais",
       "rating": 4.7,
@@ -244,7 +244,7 @@
       "description": "Estratégias para conservar a biodiversidade. (Ciências Ambientais)"
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "Design de Moda Sustentável",
       "category": "Moda",
       "rating": 4.8,
@@ -253,7 +253,7 @@
       "description": "Projete moda sustentável e estilosa. (Moda)"
     },
     {
-      "id": 29,
+      "id": "29",
       "name": "Comunicação Eficaz no Ambiente de Trabalho",
       "category": "Comunicação",
       "rating": 4.6,
@@ -262,7 +262,7 @@
       "description": "Aprimore as habilidades de comunicação no ambiente de trabalho. (Comunicação)"
     },
     {
-      "id": 30,
+      "id": "30",
       "name": "Filosofia Política Contemporânea",
       "category": "Filosofia",
       "rating": 4.5,
@@ -271,7 +271,7 @@
       "description": "Exploração da filosofia política contemporânea. (Filosofia)"
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "Mindfulness and Stress Management",
       "category": "Saúde",
       "rating": 4.9,
@@ -280,7 +280,7 @@
       "description": "Achieve mindfulness and manage stress effectively. (Saúde)"
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "Mindfulness e Gerenciamento do Estresse",
       "category": "Saúde",
       "rating": 4.9,
@@ -289,7 +289,7 @@
       "description": "Alcance mindfulness e gerencie o estresse eficazmente. (Saúde)"
     },
     {
-      "id": 32,
+      "id": "32",
       "name": "Desenvolvimento Avançado de Aplicativos Móveis com Flutter",
       "category": "Tecnologia",
       "rating": 4.8,
@@ -298,7 +298,7 @@
       "description": "Domine o desenvolvimento avançado de aplicativos móveis com Flutter. (Tecnologia)"
     },
     {
-      "id": 33,
+      "id": "33",
       "name": "Ciência de Dados para Análise de Negócios",
       "category": "Tecnologia",
       "rating": 4.7,
@@ -307,7 +307,7 @@
       "description": "Aplique ciência de dados para análise de negócios eficaz. (Tecnologia)"
     },
     {
-      "id": 34,
+      "id": "34",
       "name": "Técnicas Modernas de Escultura",
       "category": "Arte",
       "rating": 4.5,
@@ -316,7 +316,7 @@
       "description": "Explore técnicas modernas de escultura e arte. (Arte)"
     },
     {
-      "id": 35,
+      "id": "35",
       "name": "Arte da Confeitaria Gourmet",
       "category": "Culinária",
       "rating": 4.9,
@@ -325,7 +325,7 @@
       "description": "Domine a arte da confeitaria gourmet. (Culinária)"
     },
     {
-      "id": 36,
+      "id": "36",
       "name": "Gestão Financeira Estratégica",
       "category": "Finanças",
       "rating": 4.8,
@@ -334,7 +334,7 @@
       "description": "Desenvolva habilidades de gestão financeira estratégica. (Finanças)"
     },
     {
-      "id": 37,
+      "id": "37",
       "name": "Psicologia Cognitiva Avançada",
       "category": "Psicologia",
       "rating": 4.7,
@@ -343,7 +343,7 @@
       "description": "Aprofunde-se na psicologia cognitiva avançada. (Psicologia)"
     },
     {
-      "id": 38,
+      "id": "38",
       "name": "Estratégia de Marketing Digital",
       "category": "Marketing",
       "rating": 4.6,
@@ -352,7 +352,7 @@
       "description": "Elabore estratégias eficazes de marketing digital. (Marketing)"
     },
     {
-      "id": 39,
+      "id": "39",
       "name": "Expedições de Fotografia de Vida Selvagem",
       "category": "Fotografia",
       "rating": 4.9,
@@ -361,13 +361,16 @@
       "description": "Capture a beleza da vida selvagem através da fotografia. (Fotografia)"
     },
     {
-      "id": 40,
+      "id": "40",
       "name": "Oficina de Escrita de Ficção Científica",
       "category": "Escrita",
       "rating": 4.8,
       "year": 2023,
       "professor": "Lucas Rodrigues",
       "description": "Mergulhe no mundo da escrita de ficção científica. (Escrita)"
+    },
+    {
+      "id": "3db2"
     }
   ]
 }
